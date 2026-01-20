@@ -77,7 +77,7 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
   # JSON serialization code generator
-  build_runner: ^2.4.0
+  build_runner: ^2.10.5
   json_serializable: ^6.7.0
 
   # HTTP mocking for tests
