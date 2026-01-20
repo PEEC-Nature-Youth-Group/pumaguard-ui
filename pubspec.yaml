@@ -78,7 +78,7 @@ dev_dependencies:
 
   # JSON serialization code generator
   build_runner: ^2.4.0
-  json_serializable: ^6.7.0
+  json_serializable: ^6.11.4
 
   # HTTP mocking for tests
   mockito: ^5.4.4
