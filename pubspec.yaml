@@ -48,7 +48,7 @@ dependencies:
   intl: ^0.20.2
 
   # Shared preferences for storing UI preferences
-  shared_preferences: ^2.3.0
+  shared_preferences: ^2.5.4
 
   # Web APIs (modern replacement for dart:html)
   web: ^1.1.0
